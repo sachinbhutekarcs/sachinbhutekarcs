@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachinbhutekarcs
+- 👋 Hi, I’m Sachin Bhutekar.
 - 👀 I’m interested in Web Developement.
 - 🌱 I’m currently learning Django, HTML5, CSS3, JavaScript.
 - 💞️ I’m looking for opportunity for entry level web developement positions.
