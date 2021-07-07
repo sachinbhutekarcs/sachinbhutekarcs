@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachin Bhutekar.
-- 👀 I’m interested in Web Developement.
+- 👀 I'm an aspiring Web Developer.
 - 🌱 I’m currently learning Django, HTML5, CSS3, JavaScript.
 - 💞️ I’m looking for opportunity for entry level web developement positions.
 - 📫 Wanna get in touch or invite me for interview? Feel free to contact me via email @sachinbhutekar24.12@gmail.com
